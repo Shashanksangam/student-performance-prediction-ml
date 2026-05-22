@@ -1,4 +1,4 @@
-# Student Performance Prediction Project
+# Student Performance Prediction using Machine Learning
 
 ## Overview
 This project predicts student final scores using Machine Learning techniques.
