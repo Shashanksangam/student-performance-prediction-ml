@@ -83,6 +83,16 @@ python src/main.py
 
 ---
 
+## Sample Prediction
+
+Student 1:
+Predicted Final Score = 90.83
+
+Student 2:
+Predicted Final Score = 71.42
+
+---
+
 ## Author
 
 Shashank Sangam
